@@ -28,7 +28,9 @@
             };
 } else{
      $_SESSION['contador'] = 1;
-     		$_SESSION['id'] = session_id();
+	     echo '<br>';
+     	     $_SESSION['id'] = session_id();
+	     echo '<br>';
              echo $_SESSION['id'];
              echo '<br>';
              echo "<p>Este manual ha sido visitado"." ".$_SESSION['contador']." "."veces."."</p>";
