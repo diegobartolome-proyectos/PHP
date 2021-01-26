@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>
-			explicacion
+			contador de sesion
 		</title>
 	</head>
 	<body>
