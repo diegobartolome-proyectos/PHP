@@ -27,7 +27,7 @@
                           };
             };
 } else{
-     $_SESSION['contador'] = 1
+     $_SESSION['contador'] = 1;
      		$_SESSION['id'] = session_id();
              echo $_SESSION['id'];
              echo '<br>';
